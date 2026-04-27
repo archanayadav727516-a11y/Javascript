@@ -1,7 +1,7 @@
 // Higer order function 
 // take me or more function as parameter
 // return function 
-// ek isa function  jo apne input  as a argument mai function ko accept krta ho ek y ek se jada usko higer order function kahte h 
+// ek isa function  jo apne input  as a argument mai function ko accept krta ho ek y ek se jada usko higer order function rahte h 
 // y function return krta h
 
 function operate(a,b, operation){
