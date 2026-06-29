@@ -8,3 +8,16 @@
 // }
 
 // greet("Archana", bye);
+
+function sum (a,b){
+    console.log(a+b);
+
+}
+function calculator (a,b, sumcallback){
+    sumCallback(a,b);
+    calculator(a+b);
+    
+}
+calculator(1,2, (a,b)=>{
+    console.log(a+b);
+})
